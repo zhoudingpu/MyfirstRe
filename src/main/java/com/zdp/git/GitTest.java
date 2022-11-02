@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("second-update");
         System.out.println("third-update");
         System.out.println("four-update");
+        System.out.println("push-update");
     }
 }
