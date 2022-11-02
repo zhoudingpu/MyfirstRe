@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("first-update");
         System.out.println("second-update");
         System.out.println("third-update");
+        System.out.println("four-update");
     }
 }
